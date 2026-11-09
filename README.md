@@ -13,8 +13,6 @@ This Macquarie University coursework project explores whether page count, number
 The three predictors explained little of the variation in average ratings on the test set. Adding polynomial terms did not improve performance. The models also rely on reader activity, so this approach requires ratings and reviews to have already been collected.
 
 ## Notebook and data
-
-- [View the regression notebook](book-data-regression.ipynb)
 - [Goodreads Books dataset on Kaggle](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks/data)
 
 To reproduce the analysis, download `books.csv`, place it in the notebook's working directory, and run the cells in order.
